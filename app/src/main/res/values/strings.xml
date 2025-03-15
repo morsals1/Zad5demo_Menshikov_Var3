@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MenshikovV3</string>
+    <string name="Registration_flat">Регистрация</string>
+    <string name="Login_Password_flat">Введите ваш логин и пароль</string>
+    <string name="Login_hint_flat">Логин</string>
+    <string name="Password_hint_flat">Пароль</string>
+    <string name="Entrance_button_flat">Войти</string>
+    <string-array name="spinner_items">
+        <item>1. 1-о комнатная квартира</item>
+        <item>2. 2-х комнатная квартира</item>
+        <item>3. 3-х комнатная квартира</item>
+        <item>4. Студия</item>
+    </string-array>
+</resources>
